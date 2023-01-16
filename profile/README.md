@@ -14,4 +14,6 @@
 
 This is the Github organisation for the Lockdown RP server; A Project Zomboid roleplay server.
 
+You're most likely looking for our public information repository, which you can find (here)[https://github.com/LockdownRP-PZ/LockdownRP].
+
 For more information, please visit our Discord: https://discord.gg/AyhJfGUGfU
